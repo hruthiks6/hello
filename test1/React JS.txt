@@ -1,0 +1,15 @@
+React JS
+* what is react js?
+* features jsx,virtual dom and single page application
+* main things components,state and props
+
+Node JS
+* javascript-javascript engine-spidermonkey
+* google V8 - engine run time environment
+* HTTP module
+
+npm-packages which contains module or dependencies
+* to coonect to database,to use files, for image compresors 
+* online platform and cmd line tool(install and uninstall pack,upadate and dependencyies)
+
+Materail UI
